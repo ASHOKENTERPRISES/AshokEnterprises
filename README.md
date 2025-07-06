@@ -1,6 +1,6 @@
 
 <html lang="en">
-<head>
+<head><meta name="google-site-verification" content="i6qIIKvEm95CauUzdkqausoOv9Sq6XPNqmFn1la5OjQ" />
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title><span style="color:#00e397">Ashok Enterprises</span></title>
